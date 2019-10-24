@@ -1,0 +1,42 @@
+
+body {
+ font-family: Helvetica, Arial, sans-serif;
+padding-top: 10vh;
+background-image: url("tropical-violet.jpg");
+}
+
+* {
+	box-sizing: border-box;
+}
+
+.container {
+	width: 700px;
+  height: auto;
+  padding: 20px 30px;
+  background-color: pink;
+  border-radius: 10px;
+  box-shadow: 0 0 10px 0 #000;
+ margin: auto;
+}
+
+h1 {
+	color: #7F00FF;
+	font-weight: bold;
+}
+header {
+color: #7F00FF;
+font-weight: bold;
+font-size: 16px;
+}
+p {
+	color: black;
+	font-weight: bold;
+}
+a {
+	color: green;
+	text-decoration: wavy underline;
+}
+li {
+	color: black;
+	font-weight: normal;
+}
